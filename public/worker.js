@@ -3,7 +3,7 @@ var urlsToCache = [
   '/',
   '/completed'
 ];
-
+ // "purpose": "any maskable"
 // Install a service worker
 self.addEventListener('install', event => {
   // Perform install steps
